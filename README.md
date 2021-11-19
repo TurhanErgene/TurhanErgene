@@ -1,5 +1,6 @@
 ![Full-stack developer](https://github.com/TurhanErgene/TurhanErgene/blob/main/Banner.png)
-It's Turhan from Malmö/Sweden. I am a full-stack web application developer who is I loving to work with React JS and Node JS. I also enjoy game development in Unity with C#
+
+I am a full-stack web application developer who is I loving to work with React JS and Node JS. I also enjoy game development in Unity with C#
  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turhanergene)](https://github.com/anuraghazra/github-readme-stats) 
