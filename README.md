@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Full-stack developer](https://github.com/TurhanErgene/TurhanErgene/blob/main/Banner.png)
 It's Turhan from Malmö/Sweden. I am a full-stack web application developer who is I loving to work with React JS and Node JS. I also enjoy game development in Unity with C#
  
 
