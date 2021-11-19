@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 It's Turhan from Malmö/Sweden. I am a full-stack web application developer who is I loving to work with React JS and Node JS. I also enjoy game development in Unity with C#
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/turhan-e-b25916113//)  
+ 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turhanergene)](https://github.com/anuraghazra/github-readme-stats)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/turhan-e-b25916113//) 
 <!--
 **TurhanErgene/TurhanErgene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
