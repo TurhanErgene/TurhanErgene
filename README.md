@@ -9,7 +9,7 @@ I am a full-stack web application developer who is I loving to work with React J
 * Express
 * MongoDB
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=turhanergene &theme=radical)] (https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turhanergene)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=turhanergene&theme=radical)] (https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turhanergene)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/turhan-e-b25916113/) 
  
