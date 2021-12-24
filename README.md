@@ -1,4 +1,3 @@
-![Full-stack developer](https://github.com/TurhanErgene/TurhanErgene/blob/main/Banner.png)
 
 I am a full-stack web application developer who is I loving to work with React JS and Node JS. I also enjoy game development in Unity with C#
  
@@ -15,6 +14,8 @@ I am a full-stack web application developer who is I loving to work with React J
  
  
 <!--
+![Full-stack developer](https://github.com/TurhanErgene/TurhanErgene/blob/main/Banner.png)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turhanergene&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 **TurhanErgene/TurhanErgene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
