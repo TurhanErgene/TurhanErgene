@@ -1,5 +1,5 @@
 
-I am a full-stack web application developer who is I loving to work with React JS and Node JS. I also enjoy game development in Unity with C#
+I am a full-stack web application developer who is loving to work with Javascript technologies. I also enjoy game development in Unity with C#
  
 ## Skills and Experience
 * HTML, CSS, JavaScript
