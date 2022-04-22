@@ -7,6 +7,7 @@ I am a full-stack web application developer who is I loving to work with React J
 * Node
 * Express
 * MongoDB
+* PostgreSQL
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=turhanergene&theme=radical) 
 
