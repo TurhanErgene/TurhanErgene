@@ -8,6 +8,7 @@ I am a full-stack web application developer who is loving to work with Javascrip
 * Express
 * MongoDB
 * PostgreSQL
+* FastAPI
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=turhanergene&theme=radical) 
 
