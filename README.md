@@ -1,13 +1,15 @@
 
-I am a full-stack web application developer who is loving to work with Javascript technologies. I also enjoy game development in Unity with C#
+I am a full-stack web application developer who is loving to work with Javascript and it's technologies. I also enjoy game development and cyber security.
  
 ## Skills and Experience
 * HTML, CSS, JavaScript
 * React
+* Vue
 * Node
 * Express
 * MongoDB
 * PostgreSQL
+* Python
 * FastAPI
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=turhanergene&theme=radical) 
