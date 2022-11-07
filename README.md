@@ -3,14 +3,10 @@ I am a full-stack web application developer who is loving to work with Javascrip
  
 ## Skills and Experience
 * HTML, CSS, JavaScript
-* React
-* Vue
-* Node
-* Express
-* MongoDB
-* PostgreSQL
-* Python
-* FastAPI
+* React, Vue
+* Node, Express
+* MongoDB, PostgreSQL
+* Python, FastAPI
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=turhanergene&theme=radical) 
 
