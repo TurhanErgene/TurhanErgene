@@ -1,8 +1,5 @@
 
 I am a back-end developer who is loving to work with Javascript and it's technologies. I also enjoy game development and cyber security.
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/T1RU5.png" alt="TryHackMe">
-
  
 ## Skills and Experience
 * HTML, CSS, JavaScript
