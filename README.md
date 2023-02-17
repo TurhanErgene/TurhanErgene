@@ -1,5 +1,7 @@
 
-I am a full-stack web application developer who is loving to work with Javascript and it's technologies. I also enjoy game development and cyber security.
+I am a back-end developer who is loving to work with Javascript and it's technologies. I also enjoy game development and cyber security.
+
+<script src="https://tryhackme.com/badge/405521"></script>
  
 ## Skills and Experience
 * HTML, CSS, JavaScript
