@@ -1,7 +1,10 @@
 
-I am a back-end developer who is loving to work with Javascript and it's technologies. I also enjoy game development and cyber security.
+I am a computer lover who has dedicated himself to cyber security. I was a full-stack developer who was enjoying the "back-end" and loved to use Javascript and its technologies. I also enjoy game development. 
  
 ## Skills and Experience
+* Kali Linux, Parrot OS, Ubuntu, Raspberry Pi 3-4
+* Burp Suite, Metasploit, Nmap
+* Splunk
 * HTML, CSS, JavaScript
 * React, Vue
 * Node, Express
