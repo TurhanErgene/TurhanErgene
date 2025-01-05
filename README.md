@@ -1,5 +1,7 @@
 
 I am a computer lover who has dedicated himself to cyber security. I was a full-stack developer who was enjoying the "back-end" and loved to use Javascript and its technologies. I also enjoy game development. 
+
+Currently studying Cyber Security @Linnaeus University
  
 ## Experience
 * Kali Linux, Parrot OS, Ubuntu, Raspberry Pi 3-4
