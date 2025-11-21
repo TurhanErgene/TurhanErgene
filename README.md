@@ -1,5 +1,5 @@
 
-I am a computer lover who has dedicated himself to cyber security. I was a full-stack developer who was enjoying the "back-end" and loved to use Javascript and its technologies. I also enjoy game development. 
+I love computers and the science behind them
 
 Currently studying Cyber Security @Linnaeus University
  
@@ -8,10 +8,11 @@ Currently studying Cyber Security @Linnaeus University
 * Burp Suite, Metasploit, Nmap
 * Splunk
 * HTML, CSS, JavaScript
+* Next JS
 * React, Vue
 * Node, Express
 * MongoDB, PostgreSQL
-* Python, FastAPI
+* Python, FastAPI, Java
 
 [LinkedIn](https://www.linkedin.com/in/turhan-e-b25916113/) 
 <!--
